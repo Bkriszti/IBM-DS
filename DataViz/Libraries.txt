@@ -1,0 +1,8 @@
+Plot libraries in Python:
+Matplolib->general purpose,integrability,wide variety of plots,customization
+pandas->general for data manipulation, are built on matplotlib,exploratory data analysis
+seaborn-specialized statistical visualisation, built on matplotlib,categorical plots ,count plots, heat maps, violin plots,scatter plots,bar plots,various colors,offer
+	functions to combine multiple plots, integrates with pandas
+folium-geospatial data visualisation, interactive and customizable maps
+plotly-highly interactive plots, line plots, scatter plots, 3D Maps, choroplot,interactive dashboard,plotting in web browser
+pywaffle-categorical data vis, waffle charts, square pie charts, donut charts, unique way to plot proportions
